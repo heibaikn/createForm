@@ -1,0 +1,12 @@
+{
+  "name": "create-form",
+  "version": "1.0.0",
+  "description": "a function for create Form by document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/heibaikn/createF.git",
+  "author": "fanxuchao,downing",
+  "license": "ISC"
+}
