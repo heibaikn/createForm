@@ -1,5 +1,5 @@
 {
-  "name": "create-form",
+  "name": "create-form-function",
   "version": "1.0.0",
   "description": "a function for create Form by document",
   "main": "index.js",
